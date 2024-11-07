@@ -19,12 +19,4 @@ lerna-debug.log*
 *.sw?
 
 node_modules
-dist
-dist-ssr
 *.local
-.env
-client/main.js
-client/main.js.LICENSE.txt
-art-gallery.glb
-*.d.ts
-public
